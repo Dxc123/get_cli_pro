@@ -19,12 +19,12 @@ get_cli 官方地址
 
 dart pub global activate -sgit https://github.com/Dxc123/get_cli_pro.git
 
-本地移除： dart pub global deactivate get_cli_pro
+本地移除： dart pub global deactivate get_pro
 
-使用命令区别： 以get_cli_pro 开头
+使用命令区别： 以get_pro 开头
 
 使用示例如：
 
-get_cli_pro create project:DemoDart  
+get_pro create project:DemoDart  
 
-get_cli_pro generate icons 
+get_pro generate icons 
