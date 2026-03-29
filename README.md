@@ -28,3 +28,8 @@ dart pub global activate -sgit https://github.com/Dxc123/get_cli_pro.git
 get_pro create project:DemoDart  
 
 get_pro generate icons 
+
+
+get_pro clean
+
+get_pro cleanAll
